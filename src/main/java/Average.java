@@ -28,6 +28,6 @@ public class Average {
 
         arrayAvg = (double)arraySum / length;
 
-        return arrayAvg;
+        return arrayAvg; 
     }
 }
